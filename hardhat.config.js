@@ -13,7 +13,7 @@ module.exports = {
         accounts: [
           {
             "account": '0.0.610551',
-            "privateKey": '<None of your beeswax>'
+            "privateKey": ''
           }
         ]
       }

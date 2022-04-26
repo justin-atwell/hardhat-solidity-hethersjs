@@ -10,7 +10,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@hashgraph/sdk": "^2.13.1",
+    "@types/chai": "^4.3.1",
+    "chai": "^4.3.6",
     "hardhat": "^2.9.3",
     "hardhat-hethers": "^1.0.2"
+  },
+  "dependencies": {
+    "@hashgraph/hethers": "^1.1.0"
   }
 }
